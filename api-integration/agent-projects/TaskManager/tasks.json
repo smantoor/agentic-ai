@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Add Pydantic exercise 1",
+    "due_date": "Sunday",
+    "status": "pending"
+  },
+  {
+    "id": 2,
+    "title": "Complete Prompt Engineering exercise",
+    "due_date": "Friday",
+    "status": "pending"
+  }
+]
